@@ -1,0 +1,19 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "Movies API para o treinamento do projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nat-crm/movies-api.git"
+  },
+  "author": "Natalia Carmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nat-crm/movies-api/issues"
+  },
+  "homepage": "https://github.com/nat-crm/movies-api#readme"
+}
